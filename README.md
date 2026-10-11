@@ -11,7 +11,7 @@ You will see the copy of the website , well it is actually a single file , so if
 
 We will also copy more versions of the website (like 2025 , 2024 , 2023 , 2026 , NOW , etc.)
 
-If you want to completely save it for a single HTML file and really "WATCH" it offline , please email ryanchen983@gmail.com , thanks .
+You can now download from the new download section (zip or HTML)
 
 Leave a star if you like my project !
 
