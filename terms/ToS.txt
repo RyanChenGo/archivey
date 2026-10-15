@@ -1,0 +1,21 @@
+Archivey — Terms of Service (Book Archives)
+Last updated: 2026-10-15
+
+By downloading this file, you acknowledge and agree that:
+
+1. This book file is archived for reference and preservation purposes
+   only. Archivey does not claim ownership of the content.
+
+2. You are responsible for ensuring that your download and use of this
+   file comply with the copyright laws of your jurisdiction.
+
+3. Archivey grants you no license or right to redistribute, resell, or
+   commercially exploit this file.
+
+4. This file is provided "as is", without warranty of any kind. Archivey
+   is not liable for any damages arising from its use.
+
+5. If you are a rights holder and believe this file infringes your
+   rights, please contact the maintainer for prompt removal.
+
+The disclaimer : https://github.com/RyanChenGo/archivey/blob/main/terms/disclaimer.txt
