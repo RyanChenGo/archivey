@@ -1,0 +1,4 @@
+Changelogs for Archivey project
+1.1 - Changed the view style
+1.2 - Added Video archive section
+1.2.1 - Removed Video archive section
