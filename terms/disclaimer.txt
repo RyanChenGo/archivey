@@ -1,0 +1,19 @@
+Archivey — Terms of Service (Software Archives)
+Last updated: 2026-10-15
+
+By downloading this file, you acknowledge and agree that:
+
+1. This software package may contain executable code. You download and
+   install it entirely at your own risk.
+
+2. Archivey does not guarantee the safety, integrity, or authenticity
+   of this package, and is not responsible for any damage, data loss,
+   or legal consequence resulting from its use.
+
+3. Archivey is not affiliated with the original developers or publishers
+   of this software.
+
+4. You will not redistribute this file for commercial purposes.
+
+5. If you are a rights holder and believe this file infringes your
+   rights, please contact the maintainer for prompt removal.
